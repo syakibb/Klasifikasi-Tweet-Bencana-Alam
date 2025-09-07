@@ -48,7 +48,7 @@ Agent AI bertanggung jawab penuh untuk:
 Melalui interaksi dengan agent, beberapa wawasan kunci dapat diperoleh:
 * **Insight 1: Dataset Cukup Seimbang untuk Klasifikasi:** Agent dapat diperintahkan untuk membuat visualisasi yang menunjukkan bahwa dataset memiliki distribusi kelas yang cukup seimbang antara cuitan 'Bencana' (3,271) dan 'Bukan Bencana' (4,342), kondisi yang ideal untuk tugas klasifikasi.
 
-* **Insight 2: Kemampuan Klasifikasi Zero-Shot yang Efektif:** Tanpa perlu *fine-tuning*, agent dapat diperintahkan untuk mengklasifikasikan cuitan secara langsung. Hal ini menunjukkan kekuatan pemahaman kontekstual dari model IBM Granite.
+* **Insight 2: Kemampuan Penalaran dan Klasifikasi Zero-Shot yang Mendalam:** Tanpa perlu *fine-tuning*, agent tidak hanya berhasil mengklasifikasikan cuitan yang diberikan, tetapi juga mampu **menghasilkan dan mengklasifikasikan contoh-contoh baru secara mandiri** dalam proses berpikirnya. Hal ini menunjukkan kemampuan penalaran dan pemahaman konteks yang sangat kuat dari model IBM Granite.
 
 * **Insight 3: Efisiensi Alur Kerja Analis:** Metodologi agent secara drastis mengurangi waktu yang dihabiskan untuk menulis kode repetitif untuk analisis dan visualisasi. Analis dapat fokus pada perumusan pertanyaan yang tepat untuk mendapatkan wawasan.
 
